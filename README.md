@@ -1,0 +1,2 @@
+# Greeter
+First scala repository
